@@ -1,0 +1,9 @@
+C:\Users\christopherp\source\repos\Multiply2Matrix\Multiply2Matrix\bin\Debug\Multiply2Matrix.exe.config
+C:\Users\christopherp\source\repos\Multiply2Matrix\Multiply2Matrix\bin\Debug\Multiply2Matrix.exe
+C:\Users\christopherp\source\repos\Multiply2Matrix\Multiply2Matrix\bin\Debug\Multiply2Matrix.pdb
+C:\Users\christopherp\source\repos\Multiply2Matrix\Multiply2Matrix\obj\Debug\Multiply2Matrix.csproj.CoreCompileInputs.cache
+C:\Users\christopherp\source\repos\Multiply2Matrix\Multiply2Matrix\obj\Debug\Multiply2Matrix.exe
+C:\Users\christopherp\source\repos\Multiply2Matrix\Multiply2Matrix\obj\Debug\Multiply2Matrix.pdb
+C:\Users\christopherp\source\repos\Multiply2Matrix\Multiply2Matrix\bin\Debug\MathNet.Numerics.dll
+C:\Users\christopherp\source\repos\Multiply2Matrix\Multiply2Matrix\bin\Debug\MathNet.Numerics.xml
+C:\Users\christopherp\source\repos\Multiply2Matrix\Multiply2Matrix\obj\Debug\Multiply2Matrix.csproj.CopyComplete
